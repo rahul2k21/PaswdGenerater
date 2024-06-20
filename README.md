@@ -1,6 +1,6 @@
 
 
-project link : https://color-changer1-ten.vercel.app/
+project link : [https://color-changer1-ten.vercel.app/](https://paswd-generater.vercel.app/)
 
 
 
